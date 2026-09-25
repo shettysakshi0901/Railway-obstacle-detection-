@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Users\김민석\Desktop\Real-time image-based obstacle detection and identification system using deep learning on railroad tracks environments\obstacle_detection\test\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1109</xmin>
+			<ymin>1651</ymin>
+			<xmax>1809</xmax>
+			<ymax>2426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>968</xmin>
+			<ymin>413</ymin>
+			<xmax>1738</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+</annotation>
